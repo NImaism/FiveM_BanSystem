@@ -62,4 +62,4 @@ exports['Unban']:FunctionName(SteamHex, Reason)
 
 
 ### Support
-* Join our [Discord](https://discord.com/invite/DAwe3J75bD) Server for Support or open an issue via GitHub.
+* Join our [Discord](https://discord.gg/5vpSmgRC33) Server for Support or open an issue via GitHub.
