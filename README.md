@@ -42,8 +42,8 @@
  ### Installation
 
  * 1  Put Start Ism_BanSystem in server.cfg
- * 7 start resource
- * 8 Enjoy !
+ * 2 start resource
+ * 3 Enjoy !
 
  ---------------------------------------------------------
 
