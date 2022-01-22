@@ -50,11 +50,11 @@
 ### Exports
 
 ```lua
-exports['BanUser']:FunctionName(Id, Day, Reason)
+exports['Ism_BanSystem']:BanUser(Id, Day, Reason)
 
-exports['OffBanUser']:FunctionName(SteamHex, Day, Reason)
+exports['Ism_BanSystem']:OffBanUser(SteamHex, Day, Reason)
 
-exports['Unban']:FunctionName(SteamHex, Reason)
+exports['Ism_BanSystem']:Unban(SteamHex, Reason)
 ```
 
 
